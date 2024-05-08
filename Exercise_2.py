@@ -6,6 +6,7 @@ class Node:
  
 class Stack:
     def __init__(self):
+        a = 10
         
     def push(self, data):
         
